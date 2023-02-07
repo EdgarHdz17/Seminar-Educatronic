@@ -7,5 +7,5 @@ Year:2022.
 
 <br>
 <p align="center">
-<img src="https://github.com/EdgarHdz17/Seminar-Educatronic/issues/1#issue-1575143839">
+<img src="https://user-images.githubusercontent.com/47467891/217385457-e9ae6df5-c850-4dad-a73d-7bd095c58620.png">
 </p>
