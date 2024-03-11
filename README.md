@@ -3,7 +3,7 @@ Seminar-Educatronic in ICAT(UNAM)
 
 Provided by: Institute of Applied Sciences and Technology (ICAT)-UNAM
 
-Year:2022
+Year: 2022
 
 <br>
 <p align="center">
